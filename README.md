@@ -2,7 +2,8 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/davedonnellydev/ai-august-2025-challenge?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/davedonnellydev/ai-august-2025-challenge)
-![MIT License](https://img.shields.io/github/license/davedonnellydev/ai-august-2025-challenge)
+![GitHub License](https://img.shields.io/github/license/davedonnellydev/ai-august-2025-challenge)
+
 
 ## Welcome!
 
