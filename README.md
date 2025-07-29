@@ -1,4 +1,4 @@
-# 🤖 AI August 2025: Project-a-Day Challenge Hub
+# AI August 2025: Project-a-Day Challenge Hub
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/davedonnellydev/ai-august-2025-challenge?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/davedonnellydev/ai-august-2025-challenge)
@@ -8,13 +8,13 @@
 ## Welcome!
 
 This repo is the central hub for my **AI Project-a-Day Challenge**:  
-**21 weekdays, 21 AI-powered projects, August 2025.**
+**21 weekdays, 21 AI-powered projects in August 2025.**
 
 My goal: learn by doing, stretch my dev skills, and share the journey - one day at a time.
 
 ---
 
-## 🚀 What is this challenge?
+## 🦾 What is this challenge?
 
 Throughout August 2025, I’m building a new AI-powered project **every weekday**.  
 Projects span frontend, backend, and full stack using React, Next.js, TypeScript, Python, and various AI APIs.
@@ -23,7 +23,7 @@ Each project is open-source, documented, and (where possible) deployed for you t
 
 ---
 
-## 📅 Project Calendar
+## 🗓️ Project Calendar
 
 | Day | Date       | Project Idea                        | Repo                         | Live Demo                     | Reflection                    |
 |-----|------------|-------------------------------------|------------------------------|-------------------------------|-------------------------------|
@@ -49,7 +49,7 @@ Each project is open-source, documented, and (where possible) deployed for you t
 | 20  | Aug 28     | Meme Generator                      | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
 | 21  | Aug 29     | Python AI Sentiment Analysis API    | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
 
-*The above will be filled out as each project launches!*
+*The above will be filled out as each project launches*
 
 ---
 
