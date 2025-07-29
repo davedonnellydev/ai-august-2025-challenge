@@ -87,11 +87,3 @@ Each project is open-source, documented, and (where possible) deployed for you t
 Have an idea for a project or feature? Open an [issue](https://github.com/davedonnellydev/ai-august-2025-challenge/issues) or connect with me on LinkedIn!
 
 ---
-
-## 📄 License
-
-MIT
-
----
-
-> **Thanks for checking out the challenge!**
