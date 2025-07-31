@@ -20,11 +20,8 @@ Projects span frontend, backend, and full stack using React, Next.js, TypeScript
 
 Each project is open-source, documented, and (where possible) deployed for you to try. Each day will go a little something like this:
 
-1. I'll start the project each day by selecting one of three starter repos to use as a template for the day, depending on the project:
-     - [Next.js TypeScript starter](https://github.com/davedonnellydev/nextjs-typescript-starter)
-     - [React TypeScript starter](https://github.com/davedonnellydev/react-typescript-starter)
-     - [Flask Python starter](https://github.com/davedonnellydev/flask-python-starter)
-2. After the project's repo has been created using one of the above templates, I'll define it's MVP features, tools/APIs to be used, sketch out basic user flow in the README file
+1. I'll start the project each day by creating a new repo from the template I made for this project, the [Next.js TypeScript Mantine starter](https://github.com/davedonnellydev/nextjs-typescript-mantine-starter). Most of the projects will be a Next.js/TypeScript project using Mantine UI components for quick and easy styling. There's one Python project currently in the mix and that will use the [Flask Python starter](https://github.com/davedonnellydev/flask-python-starter)
+2. After the project's repo has been created, I'll define it's MVP features, tools/APIs to be used, sketch out basic user flow in the README file
 3. Once the aims and user flow have been defined, then it's build time! UI components, API integration, app logic and testing. UI polishing if there's time.
 4. I'll record my progress throughout the day and the last hour of the day will be dedicated to putting the video together, reflecting on learnings, tidying up the README and posting!
 
