@@ -34,27 +34,27 @@ You can take a look at the challenges I'll be tackling throughout August below:
 
 | Day | Date       | Project Idea                        | Repo                         | Live Demo                     | Reflection                    |
 |-----|------------|-------------------------------------|------------------------------|-------------------------------|-------------------------------|
-| 1   | Aug 1      | AI-Powered To-Do List               | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 2   | Aug 4      | Image Caption Generator             | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 3   | Aug 5      | Smart Recipe Finder                 | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 4   | Aug 6      | AI Chatbot for Portfolio            | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 5   | Aug 7      | Resume Critique Tool                | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 6   | Aug 8      | Python Day! Keyword Extractor API   | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 7   | Aug 11     | Movie Recommendation App            | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 8   | Aug 12     | Fake News Detector                  | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 9   | Aug 13     | Blog Summarizer                     | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 10  | Aug 14     | AI Art Generator Frontend           | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 11  | Aug 15     | React Native: Daily Affirmations App| [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 12  | Aug 18     | Quiz Maker                          | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 13  | Aug 19     | Accessibility Checker               | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 14  | Aug 20     | AI Code Explainer                   | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 15  | Aug 21     | Markdown to Slides Converter        | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 16  | Aug 22     | Full Stack: Blog Platform with AI Writing Assistant| [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 17  | Aug 25     | Daily Journal with Mood Analysis    | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 18  | Aug 26     | AI-Powered Flashcard Generator      | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 19  | Aug 27     | AI Interview Coach                  | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 20  | Aug 28     | Meme Generator                      | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
-| 21  | Aug 29     | Full Stack: AI-Powered Book Club    | [Repo](#)                    | [Demo](#)                     | [Notes](#)                    |
+| 1   | Aug 1      | AI-Powered To-Do List               | [Repo](https://github.com/davedonnellydev/ai-august-2025-01)                    | [Demo](#)                     | [Notes](#)                    |
+| 2   | Aug 4      | Image Caption Generator             | [Repo](https://github.com/davedonnellydev/ai-august-2025-02)                    | [Demo](#)                     | [Notes](#)                    |
+| 3   | Aug 5      | Smart Recipe Finder                 | [Repo](https://github.com/davedonnellydev/ai-august-2025-03)                    | [Demo](#)                     | [Notes](#)                    |
+| 4   | Aug 6      | AI Chatbot for Portfolio            | [Repo](https://github.com/davedonnellydev/ai-august-2025-04)                    | [Demo](#)                     | [Notes](#)                    |
+| 5   | Aug 7      | Resume Critique Tool                | [Repo](https://github.com/davedonnellydev/ai-august-2025-05)                    | [Demo](#)                     | [Notes](#)                    |
+| 6   | Aug 8      | Python Day! Keyword Extractor API   | [Repo](https://github.com/davedonnellydev/ai-august-2025-06)                    | [Demo](#)                     | [Notes](#)                    |
+| 7   | Aug 11     | Movie Recommendation App            | [Repo](https://github.com/davedonnellydev/ai-august-2025-07)                    | [Demo](#)                     | [Notes](#)                    |
+| 8   | Aug 12     | Fake News Detector                  | [Repo](https://github.com/davedonnellydev/ai-august-2025-08)                    | [Demo](#)                     | [Notes](#)                    |
+| 9   | Aug 13     | Blog Summarizer                     | [Repo](https://github.com/davedonnellydev/ai-august-2025-09)                    | [Demo](#)                     | [Notes](#)                    |
+| 10  | Aug 14     | AI Art Generator Frontend           | [Repo](https://github.com/davedonnellydev/ai-august-2025-10)                    | [Demo](#)                     | [Notes](#)                    |
+| 11  | Aug 15     | React Native: Daily Affirmations App| [Repo](https://github.com/davedonnellydev/ai-august-2025-11)                    | [Demo](#)                     | [Notes](#)                    |
+| 12  | Aug 18     | Quiz Maker                          | [Repo](https://github.com/davedonnellydev/ai-august-2025-12)                    | [Demo](#)                     | [Notes](#)                    |
+| 13  | Aug 19     | Accessibility Checker               | [Repo](https://github.com/davedonnellydev/ai-august-2025-13)                    | [Demo](#)                     | [Notes](#)                    |
+| 14  | Aug 20     | AI Code Explainer                   | [Repo](https://github.com/davedonnellydev/ai-august-2025-14)                    | [Demo](#)                     | [Notes](#)                    |
+| 15  | Aug 21     | Markdown to Slides Converter        | [Repo](https://github.com/davedonnellydev/ai-august-2025-15)                    | [Demo](#)                     | [Notes](#)                    |
+| 16  | Aug 22     | Full Stack: Blog Platform with AI Writing Assistant| [Repo](https://github.com/davedonnellydev/ai-august-2025-16)                    | [Demo](#)                     | [Notes](#)                    |
+| 17  | Aug 25     | Daily Journal with Mood Analysis    | [Repo](https://github.com/davedonnellydev/ai-august-2025-17)                    | [Demo](#)                     | [Notes](#)                    |
+| 18  | Aug 26     | AI-Powered Flashcard Generator      | [Repo](https://github.com/davedonnellydev/ai-august-2025-18)                    | [Demo](#)                     | [Notes](#)                    |
+| 19  | Aug 27     | AI Interview Coach                  | [Repo](https://github.com/davedonnellydev/ai-august-2025-19)                    | [Demo](#)                     | [Notes](#)                    |
+| 20  | Aug 28     | Meme Generator                      | [Repo](https://github.com/davedonnellydev/ai-august-2025-20)                    | [Demo](#)                     | [Notes](#)                    |
+| 21  | Aug 29     | Full Stack: AI-Powered Book Club    | [Repo](https://github.com/davedonnellydev/ai-august-2025-21)                    | [Demo](#)                     | [Notes](#)                    |
 
 *The above links will be updated as each project launches*
 
