@@ -7,7 +7,7 @@
 ## 👋 Welcome!
 
 This repo is the central hub for my **#AIAugustAppADay Challenge**:  
-**21 AI-powered projects in August 2025.**
+**19 AI-powered projects in August 2025.**
 
 My goal: a deep dive into the new world of AI, expanding skills and making discoveries one day at a time.
 
@@ -73,16 +73,6 @@ You can take a look at the challenges I'll be tackling throughout August below:
 - **Personal site/portfolio:** [https://davedonnelly.dev/](https://davedonnelly.dev/)
 
 *Check out daily posts and demos, or suggest an idea!*
-
-
-
-## ✍️ Weekly Recaps
-
-- [Week 1 Recap](#)  
-- [Week 2 Recap](#)  
-- [Week 3 Recap](#)  
-- [Week 4 Recap](#)  
-- [Final Thoughts & Learnings](#)
 
 
 
